@@ -1,0 +1,1 @@
+printf(all are fool)
